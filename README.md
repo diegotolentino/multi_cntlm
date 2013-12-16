@@ -47,3 +47,5 @@ O resultado deve ser algo como:
     Escolha uma das configurações acima:
     
 é só escolher o número correspondente e pressionar Enter
+
+se tudo correr bem o Cntlm já estará rodando, é só configurar os programas que precisam utilizar proxy para o endereço 127.0.0.1 porta 3128
