@@ -21,17 +21,19 @@ O <a href=https://sourceforge.net/projects/cntlm/files/cntlm/>Cntlm</a> é um pr
 Utilização
 -----------
 
-1.Instale o Python 3.3 ou superior, escolha  a opção "Add python.exe to Path", ou faça isso depois.
+1.Instale o <a href="http://python.org/download/">Python 3.3</a> ou superior, escolha  a opção "Add python.exe to Path", ou faça isso depois
 
-2.Copie o arquivo setproxy.bat para o diretório de instalação do cntlm (aqui foi "C:\Program Files (x86)\Cntlm")
+2.Instale o <a href=https://sourceforge.net/projects/cntlm/files/cntlm/>Cntlm</a>
 
-3.Defina os arquivos de configuração no mesmo diretório seguindo o padrão "cntlm_DESC.ini", onde "DESC" é a descrição do seu arquivo, ex: "cntlm_redex.ini" ou "cntlm_empresay.ini"
+3.Copie o arquivo setproxy.bat para o diretório de instalação do cntlm (aqui foi "C:\Program Files (x86)\Cntlm")
 
-3.1.Não defina nomes com acentos ou espaços, o Windows suporta mas sempre tem a possibilidade de quebrar alguma coisa
+4.Defina os arquivos de configuração no mesmo diretório seguindo o padrão "cntlm_DESC.ini", onde "DESC" é a descrição do seu arquivo, ex: "cntlm_redex.ini" ou "cntlm_empresay.ini"
 
-4.Para facilitar crie um atalho para o setproxy.bat em seu desktop
+4.1.Não defina nomes com acentos ou espaços, o Windows suporta mas sempre tem a possibilidade de quebrar alguma coisa
 
-5.Click no atalho
+5.Para facilitar crie um atalho para o setproxy.bat em seu desktop
+
+6.Click no atalho
 
 
 O resultado deve ser algo como:
