@@ -1,4 +1,4 @@
-Multipes Cntlm Profiles
+Múltiplos perfis de proxy
 ===========
 
 Objetivo
@@ -46,6 +46,8 @@ O resultado deve ser algo como:
     
     Escolha uma das configurações acima:
     
-é só escolher o número correspondente e pressionar Enter
+É só escolher o número correspondente e pressionar Enter
 
-se tudo correr bem o Cntlm já estará rodando, é só configurar os programas que precisam utilizar proxy para o endereço 127.0.0.1 porta 3128
+Se tudo correu bem o Cntlm já estará rodando, é só configurar os programas que precisam utilizar proxy para o endereço 127.0.0.1 porta 3128
+
+Para mais informações sobre configuração do Cntlm acesse a <a href="http://cntlm.sourceforge.net/">página</a>
